@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "file-saver": "^2.0.2",
+    "jsonexport": "^3.0.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
